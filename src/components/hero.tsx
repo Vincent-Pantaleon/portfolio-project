@@ -36,7 +36,7 @@ const Hero = () => {
                     )}
 
                     <img
-                        src="src/assets/IMG_5934.JPG"
+                        src="portfolio_project/IMG_5934.JPG"
                         alt="Vincent Michael N. Pantaleon"
                         className={`absolute w-[80%] h-[90%] object-cover rounded-2xl object-top transition-opacity duration-1000 ${loaded ? "opacity-100" : "opacity-0"}`}
                         onLoad={() => setTimeout(() => setLoaded(true), 1000)}

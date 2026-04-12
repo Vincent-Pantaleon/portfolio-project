@@ -27,7 +27,6 @@ npm install
 
 Create a `.env` file in the root of the project:
 - `VITE_GITHUB_USERNAME` — your GitHub username
-- `VITE_GITHUB_TOKEN` — your GitHub personal access token (generate one at [github.com/settings/tokens](https://github.com/settings/tokens))
 - `VITE_EMAIL` — the email displayed in the contact section
 - `VITE_FORMSPREE_ID` — your form ID from [formspree.io](https://formspree.io)
 
