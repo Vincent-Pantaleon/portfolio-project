@@ -21,7 +21,7 @@ const Hero = () => {
                         icon={FaGithub}
                     />
                     <LinkComponent
-                        href="src/assets/Vincent Michael's Professional Resume.pdf"
+                        href="src/assets/Vincent Michael's Professional Resume (1).pdf"
                         isDownloadable={true}
                         label="Download Resume"
                     />
